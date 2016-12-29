@@ -3,7 +3,7 @@
 ##############
 # by kevinelstri
 # 数据集为：train.csv
-# Getting Started With Python
+# Getting Started With Pandas
 ##############
 
 import numpy as np
