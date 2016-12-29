@@ -2,7 +2,7 @@
 Titanic: Machine Learning from Disaster
 https://www.kaggle.com/c/titanic
 
-Data Files:
+DataSet:
 
   train	.csv (59.76 kb)
 
