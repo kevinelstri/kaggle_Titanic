@@ -23,6 +23,6 @@ Tutorial:
 
   Getting Started With Python
   
-  Getting Started With Python II
+  Getting Started With Pandas
   
   Getting Started With Random Forests
